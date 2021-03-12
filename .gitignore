@@ -1,0 +1,7 @@
+cheemsenv/
+__pycache__/
+.vscode/
+venv/
+.env
+timetable.db
+chromedriver
